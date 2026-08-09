@@ -7,7 +7,7 @@ Ten test cases, six packet captures, TLS decrypted so that both the API
 exchanges and the handshake underneath are visible. Everything here is
 reproducible in about twenty minutes.
 
-📄 **[Full report](docs/qkd-etsi014-report.pdf)** — 14 sections, 17 figures.
+📄 **[Full report](docs/qkd-etsi014-report_v9.pdf)** — 14 sections, 17 figures.
 
 ---
 
